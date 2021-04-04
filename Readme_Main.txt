@@ -39,9 +39,6 @@ $python manage.py createsuperuser
 {   Username (leave blank to use 'lenovo'): admin
     Email address: gohildb.dev@gmail.com
     Password: 
-    Password (admin@147):  
-    Username: Admin
-    Password: blog@123
 }
 
 #Run Django project
